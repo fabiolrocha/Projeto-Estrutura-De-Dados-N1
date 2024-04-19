@@ -4,19 +4,16 @@
 #include <time.h>
 #include <math.h>
 
-#define MAX_ROWS 94
-#define MAX_COLS 100
-
 int main()
 {
     FILE *DadosEntrada;
 
-    DadosEntrada = fopen("C:\\Users\\fabio\\Desktop\\Projeto Marcelo Eustaquio\\DadosEntrada.csv", "r");
+    DadosEntrada = fopen("DadosEntrada.csv", "r");
 
     if (DadosEntrada == NULL)
     {
         printf("Erro ao abrir o arquivo\n");
-        exit(0);
+        exit(1);
     }
 
     char Linha[1024];
