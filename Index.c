@@ -1,36 +1,81 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
-#include <math.h>
 
-int main()
+struct dados{
+    char nome[64];
+    char telefone[64];
+    char curso[64];
+    float nota1;
+    float nota2;
+};
+
+int leitura(struct dados *dados);
+float media(struct dados *dados);
+char situacao(float media);
+
+
+
+
+
+
+int leitura(struct dados *dados)
 {
-    FILE *DadosEntrada;
+    FILE *dadosEstudantes;
 
-    DadosEntrada = fopen("DadosEntrada.csv", "r");
+    char *dados;
 
-    if (DadosEntrada == NULL)
+    dadosEstudantes = fopen("DadosEntrada.csv", "r");
+
+    if (dadosEstudantes == NULL)
     {
         printf("Erro ao abrir o arquivo\n");
         exit(1);
     }
 
-    char Linha[1024];
-
     system("cls");
 
-    while (fgets(Linha, 1024, DadosEntrada) != NULL)
+    while (fgets(dados, sizeof(dados), dadosEstudantes) != NULL)
     {
-        DadosEntrada = strtok(Linha, ",");
+        char *token = strtok(dados, ",");
 
-        while (DadosEntrada != NULL)
+        while (token != NULL)
         {
-
-            printf("%s - ", DadosEntrada);
-            DadosEntrada = strtok(NULL, ",");
+            printf("%s ", token);
+            token = strtok(NULL, ",");
         }
     }
 
-    fclose(DadosEntrada);
+    fclose(dadosEstudantes);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+char situacao(float media)
+{
+    if (media >= 7)
+    {
+        return "APROVADO";
+    }
+    else
+    {
+        return "REPROVADO";
+    }
 }
