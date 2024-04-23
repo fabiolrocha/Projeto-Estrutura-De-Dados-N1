@@ -1,0 +1,929 @@
+Dados do Aluno:
+Nome: Ana Silva
+Telefone: (123) 456-7890
+Curso: Engenharia
+Nota 1: 8.50
+Nota 2: 9.20
+Media: 8.85
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Santos
+Telefone: (987) 654-3210
+Curso: Medicina
+Nota 1: 7.80
+Nota 2: 8.50
+Media: 8.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Maria Oliveira
+Telefone: (555) 123-4567
+Curso: Direito
+Nota 1: 9.00
+Nota 2: 9.30
+Media: 9.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+João Pereira
+Telefone: (222) 789-4561
+Curso: Arquitetura
+Nota 1: 6.50
+Nota 2: 7.20
+Media: 6.85
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Alves
+Telefone: (333) 567-8901
+Curso: Psicologia
+Nota 1: 8.20
+Nota 2: 8.80
+Media: 8.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ricardo Ferreira
+Telefone: (444) 678-9012
+Curso: Economia
+Nota 1: 7.00
+Nota 2: 7.50
+Media: 7.25
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Juliana Lima
+Telefone: (777) 890-1234
+Curso: Administração
+Nota 1: 9.50
+Nota 2: 9.80
+Media: 9.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Santos
+Telefone: (888) 234-5678
+Curso: Engenharia
+Nota 1: 8.80
+Nota 2: 9.00
+Media: 8.90
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Laura Vieira
+Telefone: (999) 345-6789
+Curso: Medicina
+Nota 1: 9.20
+Nota 2: 9.60
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Felipe Rodrigues
+Telefone: (111) 456-7890
+Curso: Direito
+Nota 1: 7.50
+Nota 2: 8.00
+Media: 7.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mariana Costa
+Telefone: (222) 567-8901
+Curso: Psicologia
+Nota 1: 8.60
+Nota 2: 8.30
+Media: 8.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Guilherme Almeida
+Telefone: (333) 678-9012
+Curso: Economia
+Nota 1: 7.20
+Nota 2: 7.80
+Media: 7.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Carolina Oliveira
+Telefone: (444) 789-0123
+Curso: Medicina
+Nota 1: 9.80
+Nota 2: 9.50
+Media: 9.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Eduardo Santos
+Telefone: (555) 890-1234
+Curso: Engenharia
+Nota 1: 8.00
+Nota 2: 8.20
+Media: 8.10
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Beatriz Lima
+Telefone: (666) 901-2345
+Curso: Arquitetura
+Nota 1: 6.80
+Nota 2: 7.50
+Media: 7.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Vieira
+Telefone: (777) 012-3456
+Curso: Direito
+Nota 1: 7.90
+Nota 2: 8.40
+Media: 8.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Isabela Almeida
+Telefone: (111) 222-3333
+Curso: Engenharia
+Nota 1: 8.70
+Nota 2: 9.00
+Media: 8.85
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Rafael Santos
+Telefone: (444) 555-6666
+Curso: Medicina
+Nota 1: 7.20
+Nota 2: 8.10
+Media: 7.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Fernanda Oliveira
+Telefone: (777) 888-9999
+Curso: Direito
+Nota 1: 9.30
+Nota 2: 9.60
+Media: 9.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Pereira
+Telefone: (222) 333-4444
+Curso: Arquitetura
+Nota 1: 6.20
+Nota 2: 6.90
+Media: 6.55
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Mariana Alves
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.90
+Nota 2: 8.70
+Media: 8.80
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Ferreira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.50
+Nota 2: 7.80
+Media: 7.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Camila Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.70
+Nota 2: 9.90
+Media: 9.80
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Santos
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.20
+Nota 2: 8.50
+Media: 8.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Larissa Vieira
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.10
+Nota 2: 9.70
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Rodrigues
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.00
+Nota 2: 7.30
+Media: 7.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.30
+Nota 2: 8.60
+Media: 8.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Almeida
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 6.80
+Nota 2: 7.10
+Media: 6.95
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Gabriela Santos
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.40
+Nota 2: 9.80
+Media: 9.60
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mateus Oliveira
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.40
+Nota 2: 8.70
+Media: 8.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Beatriz Lima
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.50
+Nota 2: 9.90
+Media: 9.70
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lúcia Santos
+Telefone: (111) 222-3333
+Curso: Engenharia
+Nota 1: 7.80
+Nota 2: 8.90
+Media: 8.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ricardo Almeida
+Telefone: (444) 555-6666
+Curso: Medicina
+Nota 1: 6.50
+Nota 2: 7.40
+Media: 6.95
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Fernanda Oliveira
+Telefone: (777) 888-9999
+Curso: Direito
+Nota 1: 8.90
+Nota 2: 9.10
+Media: 9.00
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+João Pereira
+Telefone: (222) 333-4444
+Curso: Arquitetura
+Nota 1: 5.60
+Nota 2: 6.20
+Media: 5.90
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Isabela Alves
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 9.30
+Nota 2: 9.50
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Miguel Ferreira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.20
+Nota 2: 7.60
+Media: 7.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Carolina Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.00
+Nota 2: 9.30
+Media: 9.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Santos
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.10
+Nota 2: 8.40
+Media: 8.25
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Vieira
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.60
+Nota 2: 9.80
+Media: 9.70
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Rodrigues
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 6.80
+Nota 2: 7.20
+Media: 7.00
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.50
+Nota 2: 8.70
+Media: 8.60
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Almeida
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.10
+Nota 2: 7.40
+Media: 7.25
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Larissa Santos
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.20
+Nota 2: 9.50
+Media: 9.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mateus Oliveira
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.20
+Nota 2: 8.60
+Media: 8.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Beatriz Lima
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.70
+Nota 2: 9.90
+Media: 9.80
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gabriel Silva
+Telefone: (111) 222-3333
+Curso: Engenharia
+Nota 1: 8.20
+Nota 2: 8.90
+Media: 8.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Luiza Santos
+Telefone: (444) 555-6666
+Curso: Medicina
+Nota 1: 7.10
+Nota 2: 7.80
+Media: 7.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Oliveira
+Telefone: (777) 888-9999
+Curso: Direito
+Nota 1: 9.50
+Nota 2: 9.30
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Carolina Pereira
+Telefone: (222) 333-4444
+Curso: Arquitetura
+Nota 1: 6.90
+Nota 2: 7.20
+Media: 7.05
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Alves
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.60
+Nota 2: 8.50
+Media: 8.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mariana Ferreira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.80
+Nota 2: 7.60
+Media: 7.70
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.30
+Nota 2: 9.70
+Media: 9.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Isabela Santos
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.40
+Nota 2: 8.70
+Media: 8.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mateus Vieira
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.20
+Nota 2: 9.60
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Juliana Rodrigues
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.30
+Nota 2: 7.50
+Media: 7.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Rafael Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.90
+Nota 2: 8.80
+Media: 8.85
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Almeida
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.50
+Nota 2: 7.30
+Media: 7.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lúcio Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.10
+Nota 2: 9.40
+Media: 9.25
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Maria Oliveira
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.10
+Nota 2: 8.60
+Media: 8.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Santos
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.60
+Nota 2: 9.80
+Media: 9.70
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ana Silva
+Telefone: (111) 222-3333
+Curso: Engenharia
+Nota 1: 8.50
+Nota 2: 9.00
+Media: 8.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Rafael Santos
+Telefone: (444) 555-6666
+Curso: Medicina
+Nota 1: 7.20
+Nota 2: 8.30
+Media: 7.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Carolina Oliveira
+Telefone: (777) 888-9999
+Curso: Direito
+Nota 1: 9.10
+Nota 2: 9.50
+Media: 9.30
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Pereira
+Telefone: (222) 333-4444
+Curso: Arquitetura
+Nota 1: 6.30
+Nota 2: 6.90
+Media: 6.60
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Mariana Almeida
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.80
+Nota 2: 8.70
+Media: 8.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Ferreira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.40
+Nota 2: 7.60
+Media: 7.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Beatriz Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.70
+Nota 2: 9.80
+Media: 9.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Santos
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.00
+Nota 2: 8.40
+Media: 8.20
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Isabela Vieira
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.30
+Nota 2: 9.70
+Media: 9.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Rodrigues
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.10
+Nota 2: 7.50
+Media: 7.30
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.60
+Nota 2: 8.80
+Media: 8.70
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mateus Oliveira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.20
+Nota 2: 7.40
+Media: 7.30
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Fernanda Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.20
+Nota 2: 9.60
+Media: 9.40
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ricardo Alves
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.30
+Nota 2: 8.60
+Media: 8.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Larissa Santos
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.40
+Nota 2: 9.90
+Media: 9.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gabriel Pereira
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.00
+Nota 2: 7.30
+Media: 7.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ana Santos
+Telefone: (111) 222-3333
+Curso: Engenharia
+Nota 1: 8.70
+Nota 2: 9.20
+Media: 8.95
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Rafael Almeida
+Telefone: (444) 555-6666
+Curso: Medicina
+Nota 1: 7.40
+Nota 2: 8.10
+Media: 7.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Carolina Oliveira
+Telefone: (777) 888-9999
+Curso: Direito
+Nota 1: 9.60
+Nota 2: 9.40
+Media: 9.50
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gustavo Pereira
+Telefone: (222) 333-4444
+Curso: Arquitetura
+Nota 1: 6.10
+Nota 2: 6.90
+Media: 6.50
+Situacao final: REPROVADO
+
+Dados do Aluno:
+Nome: 
+Mariana Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.90
+Nota 2: 8.60
+Media: 8.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+André Ferreira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.30
+Nota 2: 7.80
+Media: 7.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Beatriz Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.80
+Nota 2: 9.70
+Media: 9.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Lucas Santos
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.20
+Nota 2: 8.50
+Media: 8.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Isabela Vieira
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.50
+Nota 2: 9.80
+Media: 9.65
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Pedro Rodrigues
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.20
+Nota 2: 7.40
+Media: 7.30
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Sofia Costa
+Telefone: (555) 666-7777
+Curso: Psicologia
+Nota 1: 8.40
+Nota 2: 8.70
+Media: 8.55
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Mateus Oliveira
+Telefone: (888) 999-0000
+Curso: Economia
+Nota 1: 7.60
+Nota 2: 7.90
+Media: 7.75
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Fernanda Lima
+Telefone: (111) 222-3333
+Curso: Administração
+Nota 1: 9.30
+Nota 2: 9.60
+Media: 9.45
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Ricardo Alves
+Telefone: (444) 555-6666
+Curso: Engenharia
+Nota 1: 8.00
+Nota 2: 8.30
+Media: 8.15
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Larissa Santos
+Telefone: (777) 888-9999
+Curso: Medicina
+Nota 1: 9.20
+Nota 2: 9.50
+Media: 9.35
+Situacao final: APROVADO
+
+Dados do Aluno:
+Nome: 
+Gabriel Pereira
+Telefone: (222) 333-4444
+Curso: Direito
+Nota 1: 7.50
+Nota 2: 7.80
+Media: 7.65
+Situacao final: APROVADO
+
