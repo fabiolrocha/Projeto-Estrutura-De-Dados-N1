@@ -57,6 +57,7 @@ media = calcularMedia(dados.nota1, dados.nota2);
     fprintf(retornoDados, "Situacao final: %s", determinarSituacao(media));
     fprintf(retornoDados, "\n");
     fprintf(retornoDados, "\n");
+    fprintf(retornoDados, "\n");
 
 }
     fclose(dadosEstudantes);
